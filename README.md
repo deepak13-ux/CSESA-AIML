@@ -1,7 +1,7 @@
 # CSESA-AIML
 
 ##For infinitrix induction (wasn't able to😒)
-`1.Stock Market Trend Prediction Using Historical Data
+   `  1.Stock Market Trend Prediction Using Historical Data
 2.CAPM
 3.NAPV calculator
 
